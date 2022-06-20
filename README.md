@@ -29,4 +29,4 @@ I'm a Tran Thanh Trong <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phthonus&theme=dark)](https://github.com/Phthonus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phthonus&layout=compact&theme=vision-friendly-dark)](https://github.com/Phthonus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phthonus&layout=compact&theme=dark)](https://github.com/Phthonus)
