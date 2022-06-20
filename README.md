@@ -9,4 +9,4 @@ I'm a Tran Thanh Trong <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: I'm an Amateur Coder
 
-- :zap: In my free time, I Study on VNOI WIKI and read tech articles
+- :zap: In my free time, I study on VNOI WIKI and read tech articles
